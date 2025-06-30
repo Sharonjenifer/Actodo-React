@@ -6,7 +6,7 @@ A simple and responsive to-do list application built with **React**. This app al
 
 ## 🚀 Live Demo
 
-[🔗 View Live App](https://github.com/facebook/create-react-app)
+[🔗 View Live App](https://actodo-react-woad.vercel.app/)
 
 ---
 
